@@ -1,0 +1,175 @@
+
+body{
+	font-family: 'Oswald', sans-serif;
+}
+
+	/*banner section start*/
+
+.banner{
+	background: url(../img/banner.png);
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+.banner-logo{
+	padding-top: 40px;
+	color: #fafd17;
+	font-size: 35px;
+	font-family: 'Kaushan Script', cursive;
+	
+}
+
+.banner-menu{
+	padding-top: 40px;
+	
+}
+.cst-menu{
+	color: #fff;
+	font-size: 17px;
+}
+
+.banner-content{	
+	padding-top: 100px;
+}
+.banner-content h1{
+	background-color:#2B271D9C;
+	padding: 15px;
+	font-size: 30px;
+	text-align: center;
+	color: #F6F9FA;
+}
+.banner-content p{
+	padding-top: 20px;
+	color: #fff;
+}
+.banner-content span{
+	padding-top: 15px;
+	padding-bottom: 30px;
+	border-bottom: 2px solid #ffffff;
+	display: block;
+	width: 7%;
+}
+.banner-content button{
+	margin-bottom: 136px;
+	color: #fff;
+	margin-top: 40px;
+	padding: 10px 50px;
+	background-color: transparent;
+	border: 3px solid white;
+}
+
+.feature{
+	background-color:#F6F6F6;
+	padding: 80px 0px;
+	color: #28282E;
+}
+.cst-h1-content{
+	color: #28282E;
+	font-size: 36px;
+}
+.feature-content p{
+	
+}
+.feature-content span{
+	padding-top: 15px;
+	padding-bottom: 30px;
+	border-bottom: 2px solid #ffffff;
+	display: block;
+	width: 7%;
+}
+
+.parent{
+	position: relative;
+	top: 70px;
+	right: 185px;
+}
+.parent img{
+	width: 850px;
+}
+.child{
+	position: absolute;
+	top: 54px;
+	left: 362px;
+}
+.child img{
+	width: 360px;
+}
+
+
+.gallery{
+	background-color: #28282E;
+	padding: 80px 0px;
+}
+.gallery-content h1{
+	padding-top: 10px;
+	color: #ffffff;
+	font-size: 35px;
+}
+.gallery-content span{
+	padding-top: 15px;
+	padding-bottom: 15px;
+	border-bottom: 3px solid #ffffff;
+	display: block;
+	width: 7%;
+}
+.cst-h1-gallery-content{
+	 
+}
+.cst-p-gallery-content{
+	 width: 60%;
+	 color: #ffffff;
+	font-size: 15px;
+}
+
+.gallery-content button{
+	margin-bottom: 40px;
+	color: #fff;
+	margin-top: 30px;
+	padding: 15px 70px;
+	background-color: transparent;
+	border: 3px solid white;
+}
+.gray-right{
+	padding-top: 75px;
+}
+.parent-2{
+	position: relative;
+    width: 700px;
+    top: 50px;
+    right: 116px;
+}
+.child-2{
+	position: absolute;
+    top: 30px;
+}
+.child-2 img{
+	width: 715px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*media query*/
+/*mobile device*/
+@media (min-width: 320px) and (max-width: 500px){
+
+}
+/*small device*/
+@media (min-width: 501px) and (max-width: 768px){
+	
+}
+/*medium device*/
+@media (min-width: 769px) and (max-width: 1200px){
+	
+}
+/*large device*/
+@media (min-width: 1201px) {
+	
+}
